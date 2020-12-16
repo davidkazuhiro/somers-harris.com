@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: C00F696B-8D80-4A15-824C-06096735B641	</title>
+	<atom:link href="/2018/09/02/september-1st-bangkok-symposium-final-day/c00f696b-8d80-4a15-824c-06096735b641/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/09/02/september-1st-bangkok-symposium-final-day/c00f696b-8d80-4a15-824c-06096735b641/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Sun, 02 Sep 2018 14:59:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

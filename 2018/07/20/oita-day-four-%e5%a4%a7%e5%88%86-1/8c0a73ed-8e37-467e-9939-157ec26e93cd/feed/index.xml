@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 8C0A73ED-8E37-467E-9939-157EC26E93CD	</title>
+	<atom:link href="/2018/07/20/oita-day-four-%E5%A4%A7%E5%88%86-1/8c0a73ed-8e37-467e-9939-157ec26e93cd/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/07/20/oita-day-four-%e5%a4%a7%e5%88%86-1/8c0a73ed-8e37-467e-9939-157ec26e93cd/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Thu, 19 Jul 2018 23:17:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

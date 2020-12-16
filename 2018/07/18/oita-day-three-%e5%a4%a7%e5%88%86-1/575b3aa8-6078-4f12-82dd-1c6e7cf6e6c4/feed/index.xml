@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 575B3AA8-6078-4F12-82DD-1C6E7CF6E6C4	</title>
+	<atom:link href="/2018/07/18/oita-day-three-%E5%A4%A7%E5%88%86-1/575b3aa8-6078-4f12-82dd-1c6e7cf6e6c4/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/07/18/oita-day-three-%e5%a4%a7%e5%88%86-1/575b3aa8-6078-4f12-82dd-1c6e7cf6e6c4/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Wed, 18 Jul 2018 11:23:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

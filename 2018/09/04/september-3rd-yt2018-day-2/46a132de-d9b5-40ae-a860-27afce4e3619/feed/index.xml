@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 46A132DE-D9B5-40AE-A860-27AFCE4E3619	</title>
+	<atom:link href="/2018/09/04/september-3rd-yt2018-day-2/46a132de-d9b5-40ae-a860-27afce4e3619/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/09/04/september-3rd-yt2018-day-2/46a132de-d9b5-40ae-a860-27afce4e3619/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Mon, 03 Sep 2018 15:29:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

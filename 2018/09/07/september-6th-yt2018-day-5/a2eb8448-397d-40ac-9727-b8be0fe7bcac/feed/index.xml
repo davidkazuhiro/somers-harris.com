@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: A2EB8448-397D-40AC-9727-B8BE0FE7BCAC	</title>
+	<atom:link href="/2018/09/07/september-6th-yt2018-day-5/a2eb8448-397d-40ac-9727-b8be0fe7bcac/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/09/07/september-6th-yt2018-day-5/a2eb8448-397d-40ac-9727-b8be0fe7bcac/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Thu, 06 Sep 2018 14:50:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

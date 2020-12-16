@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 038B91D3-1FC9-43F2-8069-9AB78271C04A	</title>
+	<atom:link href="/2018/05/20/harry-mehgan/038b91d3-1fc9-43f2-8069-9ab78271c04a/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/05/20/harry-mehgan/038b91d3-1fc9-43f2-8069-9ab78271c04a/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Sun, 20 May 2018 00:53:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>

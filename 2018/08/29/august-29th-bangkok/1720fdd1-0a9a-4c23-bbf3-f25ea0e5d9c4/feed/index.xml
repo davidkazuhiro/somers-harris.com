@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: 1720FDD1-0A9A-4C23-BBF3-F25EA0E5D9C4	</title>
+	<atom:link href="/2018/08/29/august-29th-bangkok/1720fdd1-0a9a-4c23-bbf3-f25ea0e5d9c4/feed/" rel="self" type="application/rss+xml" />
+	<link>/2018/08/29/august-29th-bangkok/1720fdd1-0a9a-4c23-bbf3-f25ea0e5d9c4/</link>
+	<description>Your one stop Somers-Harris update</description>
+	<lastBuildDate>Wed, 29 Aug 2018 13:10:22 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+</channel>
+</rss>
